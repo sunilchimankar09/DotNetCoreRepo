@@ -4,3 +4,6 @@ lastname
 city
 address
 color
+payment
+getpayment
+sendpayment
